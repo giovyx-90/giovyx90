@@ -9,11 +9,15 @@ Mi chiamo Giovanni, su internet ed online Giovyx. Sono un ragazzo di 19 anni e a
 * Il disegno e l'arte
 * La programmazione
 * Minecraft
-* Manga ed Ainme
+* Manga ed Anime
 
 
 ## I miei archivi
 
 - Esperimento sociale "Un regno qualsiasi" sulla piattaforma Discord
-- Relazioni scolastiche di Storia dell'Arte
+- Relazioni scolastiche di:
+	- Storia dell'Arte
+	- Fisica
+* Appunti scolastici del quinto anno (di alcune materie come Italiano, Storia e Filosofia)
+* Blog artistico
 
