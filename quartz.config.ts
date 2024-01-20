@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Giovyx90.net",
+    pageTitle: "Giovyx90",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
